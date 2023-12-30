@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hieu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning more framework of java,js,python to become a fullstack dev (Spring Boot, React, Bootstrap)
+- 🌱 I’m currently learning more framework of java,js to become a fullstack dev (Spring Boot, ReactJS, React Native)
